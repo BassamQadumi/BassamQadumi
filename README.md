@@ -54,10 +54,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JSX          9 hrs 28 mins   ████████████████░░░░░░░░░   64.34 % 
-JavaScript   3 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 % 
-HTML         1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-MDX          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Python       9 hrs 28 mins   ████████████████░░░░░░░░░   64.34 % 
+HTML         3 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 % 
+Java script  1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+SQL          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -74,7 +74,7 @@ MDX          17 mins         ▒░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BassamQadumi&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
