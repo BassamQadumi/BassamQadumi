@@ -72,7 +72,7 @@ SQL          17 mins         ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 my github stats  ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ ᠌ 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BassamQadumi&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
